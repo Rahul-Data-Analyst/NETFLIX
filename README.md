@@ -253,7 +253,5 @@ FROM (
 ) AS categorized_content
 GROUP BY category;
 ```
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/
-rahul-yadav-b16857205)
-
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rahul-yadav-b16857205/)
 Thank you for your support, and I look forward to connecting with you!
