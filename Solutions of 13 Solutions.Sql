@@ -1,5 +1,5 @@
 -- Netflix Data Analysis using SQL
--- Solutions of 15 business problems
+-- Solutions of 13 business problems
 -- 1. Count the Number of Movies vs TV Shows
 
 SELECT type,count(*) AS Total_content
